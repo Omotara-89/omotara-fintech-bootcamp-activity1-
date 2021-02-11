@@ -1,6 +1,6 @@
 # omotara-fintech-bootcamp-activity1-
 
-![ican profile_log](ican profile.PNG)
+![icanprofile_log](icanprofile.PNG)
 
 Omotara Ajayi Bsc. Accounting form Covenant University
 
